@@ -19,7 +19,7 @@ def create_todo(request):
     serializer = TodoSerializer(request.data)
     return Response(serializer.data)
 
-
+u8phuih
 
 
 
